@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 Welcome to Jiny Github
 
 <!--
 **goodlucky1215/goodlucky1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Jiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodlucky1215&show_icons=true&theme=great-gatsby)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodlucky00)](https://solved.ac/goodlucky00)
