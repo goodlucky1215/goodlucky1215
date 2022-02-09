@@ -3,8 +3,7 @@
 <!--
 **goodlucky1215/goodlucky1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/goodlucky00)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/goodlucky00)
 
 Here are some ideas to get you started:
 
